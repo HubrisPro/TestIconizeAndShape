@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{477818EB-7E8A-47AB-922E-D5ACDF120DAC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="iOS/Main.cs" Line="1" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" Line="24" Column="48" />
+      <File FileName="TestIconizeAndShape/MyPage.cs" Line="22" Column="33" />
+      <File FileName="TestIconizeAndShape/App.xaml" Line="1" Column="1" />
+      <File FileName="TestIconizeAndShape/App.xaml.cs" Line="11" Column="28" />
+      <File FileName="Droid/MainActivity.cs" Line="26" Column="71" />
+      <File FileName="iOS/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestIconizeAndShape.Droid PreferredExecutionTarget="Android.Nexus_4_API_19" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestIconizeAndShape.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.15F85762-C52A-4642-8C24-44C12C2E24AF" />
+  <MultiItemStartupConfigurations />
+</Properties>
